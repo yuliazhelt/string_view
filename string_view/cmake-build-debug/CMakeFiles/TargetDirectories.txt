@@ -1,0 +1,3 @@
+/mnt/c/дзшки/стажка/прога/string_view/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/дзшки/стажка/прога/string_view/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/дзшки/стажка/прога/string_view/cmake-build-debug/CMakeFiles/string_view.dir
